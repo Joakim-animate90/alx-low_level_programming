@@ -1,6 +1,6 @@
-#0x16. C - Doubly linked lists
+# 0x16. C - Doubly linked lists
 
-#Table of contents
+# Table of contents
 
 
 lists.h	Header file containing all the function prototypes of this project, and the definition of the struct
